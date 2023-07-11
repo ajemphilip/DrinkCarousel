@@ -1,1 +1,2 @@
 # DrinkCarousel
+The project showcases an interesting data visualization made in processing. Every group member recorded drink consumption over a week in the Excel sheet which after the data was averaged and put as a weekly drink consumption interface. The interface was designed as 8-bit pixel art and the item sizes on the carousel depended on the average daily consumption. The main technology used was an art/data visualization program called processing and Java.
